@@ -6,12 +6,10 @@ import Cita from './Cita';
 function Listado() 
 {
     return (
-    <>
             <div className="one-half column">
-            <h2>Crear mi Cita</h2>
-            <Cita/>
+                <h2>Crear mi Cita</h2>
+                <Cita/>
             </div>
-    </>
     );
 }
 export default Listado

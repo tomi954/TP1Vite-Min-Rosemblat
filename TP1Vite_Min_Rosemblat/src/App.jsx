@@ -8,9 +8,13 @@ function App()
 {
   return (
     <>
-    <h1>ADMINISTRADOR DE PACIENTES</h1>
-      <Formulario/>
-      <Listado/>
+    <div className='row'>
+      <div className='container'>
+          <h1>ADMINISTRADOR DE PACIENTES</h1>
+          <Formulario/>
+          <Listado/>
+      </div>
+    </div>
     </>
   )
 }
