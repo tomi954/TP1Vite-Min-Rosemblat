@@ -1,6 +1,6 @@
 import React from 'react';
 import './Listado.css';
-
+<link rel="stylesheet" href="Listado.css" />
 function Listado() 
 {
     return (
@@ -15,3 +15,4 @@ function Listado()
     </>
     );
 }
+export default Listado

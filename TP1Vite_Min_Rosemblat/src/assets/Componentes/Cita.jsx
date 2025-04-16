@@ -1,6 +1,6 @@
 import React from 'react';
 import './Cita.css';
-
+<link rel="stylesheet" href="Cita.css" />
 
 function Cita()
 {

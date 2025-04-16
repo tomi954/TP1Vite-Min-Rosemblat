@@ -1,6 +1,6 @@
 import React from 'react';
 import './Formulario.css';
-
+<link rel="stylesheet" href="Formulario.css" />
 function Formulario()
 {
     return (
